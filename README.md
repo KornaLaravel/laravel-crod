@@ -267,4 +267,12 @@ using the issue tracker.
 
 ## Conclusion
 
-Laravel-crod is a simple yet powerful package that can help you create CRUD operations for your Laravel models in just a few lines of code. By following this documentation, you should now have a better understanding of how to use the package in your Laravel project. If you have any issues or questions, please feel free to open an issue on the package's GitHub repository.
+The `Laravel-Crod` is a simple yet powerful package that can help you create CRUD operations for your Laravel models in just a few lines of code. By following this documentation, you should now have a better understanding of how to use the package in your Laravel project. If you have any issues or questions, please feel free to open an issue on the package's GitHub repository.
+
+## Donate
+
+If this package is helpful for you, you can buy a coffee for me :) ❤️
+
+- Iraninan Gateway: https://daramet.com/milwad_khosravi
+- Paypal Gateway: SOON
+- MetaMask Address: `0xf208a562c5a93DEf8450b656c3dbc1d0a53BDE58`
